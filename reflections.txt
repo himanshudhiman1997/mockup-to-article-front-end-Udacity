@@ -1,0 +1,21 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+1. New skills that I have learned are :
+    # how to add a partition line.
+    # how to make the text a link.
+    # how to set the font of a text to italic.
+    # use of superscript.
+    # how to add image.
+    # use of strike property.
+       and many more....
+
+2. Changing the font of the text and image addition.
+3. Understanding the concept of superscript.
+4. Using the google for searching the properties used in this project.
